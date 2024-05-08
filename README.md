@@ -1,13 +1,14 @@
-# Your Project Name
+# Station météo 
 
 | | |
 |-|-|
-|`Author` | Your full name
+|`Author` | Imad-Eddine LFARH
 
 ## Description
-
+Station météo qui dispose d'un thermomètre, hygromètre et d'un capteur de luminosité
 ## Motivation
-
+Ce projet me permet d'apprendre de nouvelles compétences en électronique, je voulais creer quelque chose d'utile au quotidien, cette station météo me sera tres utile.
+ 
 ## Architecture
 
 ### Block diagram
@@ -26,8 +27,8 @@
 
 | Device | Usage | Price |
 |--------|--------|-------|
-| Activ Buzzer | Buzzer | [1.5 RON](https://www.optimusdigital.ro/ro/audio-buzzere/635-buzzer-activ-de-3-v.html?search_query=buzzer&results=61) |
-| Push Button | Button | [1 RON](https://www.optimusdigital.ro/ro/butoane-i-comutatoare/1119-buton-6x6x6.html?search_query=buton&results=222) |
+| Arduino |   | [1.5 RON](https://www.optimusdigital.ro/ro/audio-buzzere/635-buzzer-activ-de-3-v.html?search_query=buzzer&results=61) |
+| Ecran LCD | Affichage | [17 RON](https://www.optimusdigital.ro/ro/optoelectronice-lcd-uri/2894-lcd-cu-interfata-i2c-si-backlight-albastru.html) |
 | Jumper Wires | Connecting components | [7 RON](https://www.optimusdigital.ro/ro/fire-fire-mufate/884-set-fire-tata-tata-40p-10-cm.html?search_query=set+fire&results=110) |
 | Breadboard | Project board | [10 RON](https://www.optimusdigital.ro/ro/prototipare-breadboard-uri/8-breadboard-830-points.html?search_query=breadboard&results=145) |
 
