@@ -37,7 +37,10 @@ Ce projet me permet d'apprendre de nouvelles compétences en électronique, je v
 ### Schematic
 
 ![Schematic](Station-meteo.png)
-Station-meteo.png
+
+### Code
+[le code](statiemeteo.ino)
+
 ### Components
 
 
